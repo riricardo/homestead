@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riricardo/homestead.git"
+    "url": "git+https://github.com/riricardo/homestead.git",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
